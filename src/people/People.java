@@ -84,9 +84,9 @@ public class People {
        h = new Hijo(sexo, cabelloco, ojosco, edad, peso, estatura, hobbits, Sh, Vd);
        h.presentar();
        
-       
+         System.out.println("Version 1.1");
     }
-    
+ 
 }
 
 
